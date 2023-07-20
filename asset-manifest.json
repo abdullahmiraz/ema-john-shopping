@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ema-john-shopping/static/css/main.dd464ef7.css",
+    "main.js": "/ema-john-shopping/static/js/main.80554e0b.js",
+    "static/js/787.54ff0e24.chunk.js": "/ema-john-shopping/static/js/787.54ff0e24.chunk.js",
+    "static/media/Logo.svg": "/ema-john-shopping/static/media/Logo.311dd846bc480af4fcd81826b6b793a8.svg",
+    "index.html": "/ema-john-shopping/index.html",
+    "main.dd464ef7.css.map": "/ema-john-shopping/static/css/main.dd464ef7.css.map",
+    "main.80554e0b.js.map": "/ema-john-shopping/static/js/main.80554e0b.js.map",
+    "787.54ff0e24.chunk.js.map": "/ema-john-shopping/static/js/787.54ff0e24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd464ef7.css",
+    "static/js/main.80554e0b.js"
+  ]
+}
